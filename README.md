@@ -2,7 +2,7 @@
 Dự án LMS_Demo_Authenticate bằng **Spring Boot**, **Spring Security**, **OAuth2 (Google)** và **SQL Server**.
 
 ---
-Hướng dẫn
+Hướng dẫn cách setup:
 
 ## 💾 1. Cấu hình Database (SQL Server)
 
